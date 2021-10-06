@@ -1,0 +1,17 @@
+{
+  "name": "senses-docs",
+  "version": "0.0.1",
+  "description": "Senses - Smart Mirror Documentation",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": "https://github.com/senses-smart-mirror/senses-docs.git",
+  "author": "Nick Thesing <nickthesing@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^2.0.0-beta.26",
+    "vuepress": "^2.0.0-beta.26"
+  }
+}
