@@ -3,7 +3,7 @@ import { navbar, sidebar } from './configs'
 module.exports = {
   lang: "en-US",
   title: "Senses - Smart Mirror",
-  description: "This is my first VuePress site",
+  description: "Modern, clean & minimalistic design software for your Smart Mirror.",
   repo: "senses-smart-mirror/senses-docs",
   head: [
     [
@@ -15,10 +15,20 @@ module.exports = {
         href: `/images/favicon.png`,
       },
     ],
+    ['meta', { name: 'msapplication-TileColor', content: '#27B5E2' }],
+    ['meta', { name: 'theme-color', content: '#27B5E2' }],
   ],
 
   themeConfig: {
-    logo: "http://getnick.nl/assets/images/mirror-stack.png",
+    codeTheme: "default",
+    activeHeaderLinks: false,
+    logo: "/senses-logo.png",
+    docsRepo: 'senses-smart-mirror/senses-docs',
+    docsBranch: 'main',
+    editLinks: true,
+    smoothScroll: true,
+    editLinkText: 'Help us improve this page!',
+    lastUpdated: 'Updated',
     locales: {
       /**
        * English locale config
@@ -34,5 +44,5 @@ module.exports = {
         sidebar: sidebar.en
       },
     }
-  },
+  }
 };

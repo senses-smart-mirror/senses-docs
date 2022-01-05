@@ -1,7 +1,4 @@
 ---
 lang: en-US
-title: Guide
-description: General guide
+description: General Guide
 ---
-
-General <strong>Guide</strong>
