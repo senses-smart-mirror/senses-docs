@@ -4,5 +4,54 @@
   --c-brand-light: #28bce9!important;
   --c-tip: #27B5E2!important;
 
+  --s-white: var(--c-text);
+
   scroll-behavior: smooth;
+}
+
+html.dark {
+  --c-bg: #1a1a1a;
+  --c-bg-light: #262626;
+  --c-bg-lighter: #1a1a1a;
+  --c-border: #2d2d2d;
+  --c-text-quote: #cbcbcb;
+  --c-border-dark: #2d2d2d;
+
+  // custom colors 
+  --s-white: #fff;
+  
+}
+
+.sidebar-items, .page-meta, .footer {
+  font-size: 13px;
+}
+
+.sidebar .sidebar-item-children {
+  margin-bottom: 1em;
+}
+
+.sidebar-item.sidebar-heading {
+  color: var(--s-white);
+}
+
+.tip {
+  border-radius: 0 5px 5px 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--s-white);
+  font-weight: 300;
+}
+
+.sidebar a {
+  transition: color .5s ease;
+}
+
+.home .hero .description {
+  font-size: 1.4rem;
+  margin-bottom: 3rem;
+}
+
+.features .feature {
+  font-size: 15px;
 }

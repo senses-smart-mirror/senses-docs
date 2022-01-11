@@ -6,7 +6,7 @@ export const en: NavbarConfig = [
     link: 'http://github.com',
   }, {
     text: 'Guide',
-    link: '/guide/getting-started.md',
+    link: '/guide/introduction.md',
   }, {
     text: 'Github',
     link: 'http://github.com',

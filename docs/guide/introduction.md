@@ -1,13 +1,13 @@
 # Introduction
 
-::: tip NOTE
-Senses - <strong>Smart Mirror</strong> software can be updated regular as we are always trying to improve the software. For any questions / issues please raise a ticket on [Github](/guide/migration/introduction.html)!
-:::
-
-
 ## What is Senses 
 
 Senses - Smart Mirror is a <strong>modern</strong>, <strong>clean</strong> & <strong>minimalistic</strong> design for your Smart Mirror. Senses is open source and rich of widgets ready to provide you an amazing view of day-to-day data. Senses is created with <strong>Electron</strong>, <strong>Typescript</strong> & <strong>Vue</strong> and has multiple tools in its ecosystem to support working with the software.
+
+
+::: tip NOTE
+Senses - <strong>Smart Mirror</strong> software can be updated regular as we are always trying to improve the software. For any questions / issues please raise a ticket on [Github](/guide/migration/introduction.html)!
+:::
 
 ## Senses Toolset
 

@@ -18,6 +18,13 @@ module.exports = {
     ['meta', { name: 'msapplication-TileColor', content: '#27B5E2' }],
     ['meta', { name: 'theme-color', content: '#27B5E2' }],
   ],
+  footer: {
+    license: {
+      text: 'MIT License',
+      link: 'https://opensource.org/licenses/MIT'
+    },
+    copyright: `Copyright © 2020-${new Date().getFullYear()} Nick Thesing`
+  },
 
   themeConfig: {
     codeTheme: "default",
