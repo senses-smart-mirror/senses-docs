@@ -17,4 +17,4 @@ When the update is ready the software will automatically relaunch the Smart Mirr
 
 ### Version Viewer Widget
 
-This widget will display the current installed version and shows if there is a new version available. If you enabled the option to show a notification it will also show a notification in the notifications widget! You can also choose to only display this widget when there is a new version available!
+This widget will display the current installed version and shows if there is a new version available. If you enabled the option to show a notification it will also show a notification in the notifications widget when there is a new version available! You can also choose to only display this widget when there is a new version available!

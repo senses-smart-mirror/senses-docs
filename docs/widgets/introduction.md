@@ -25,7 +25,18 @@ The following options are available for every widget:
 | Widget design | Different designs for the widget |
 
 ### Full list of widgets 
-<small>(As of version 1.0)</small>
-
-- [Calendar](/widgets/calendar)
-- [News Feed](/widgets/news-feed)
+ <small>(As of version 1.0)</small> 
+| Widgets | | |
+| --- | --- | --- |
+| [Calendar](/widgets/calendar) | [Clock](/widgets/clock) | [Crypto](/widgets/crypto) | [Crypto Graph](/widgets/crypto-graph)
+| [Chuck Norris](/widgets/chuck-norris) | [Compliments](/widgets/compliments) | [Flights](/widgets/flights) 
+| [Formula 1](/widgets/formula1) | [Github Stars](/widgets/github-stars) | [Hue](/widgets/hue)
+| [Internet Connection](/widgets/internet-connection) | [Mercedes](/widgets/mercedes) | [Nest](/widgets/nest)
+| [News Feed](/widgets/news-feed) | [Notifications](/widgets/notifications) | [Profile](/widgets/profile)
+| [QR](/widgets/qr) | [Quote](/widgets/quote) | [Rain Radar](/widgets/rain-radar)
+| [Reddit](/widgets/reddit) | [Reminders](/widgets/reminders) | [Spacer](/widgets/spacer)
+| [Speech](/widgets/speech) | [Speed Cameras](/widgets/speed-cameras) | [Speedtest](/widgets/speedtest)
+| [Spotify](/widgets/spotify) | [Stats](/widgets/stats) | [Stocks](/widgets/stocks)
+| [Text Clock](/widgets/text-clock) | [Todos](/widgets/todos) | [Trains](/widgets/trains)
+| [Travel Time](/widgets/travel-time) | [Version Viewer](/widgets/version-viewer) | [Video Player](/widgets/video-player)
+| [Voice](/widgets/voice) | [Weather](/widgets/weather) | [Weather Forecast](/widgets/weather-forecast)

@@ -1,2 +1,11 @@
+# News Feed 
 
-# News Feed
+--
+
+## Screenshot
+
+## Functionality
+
+## How to use
+
+## Configuration
