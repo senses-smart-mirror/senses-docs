@@ -5,7 +5,7 @@ The Crypto widget shows the current Crypto price data and 24 hours change in per
 ## Screenshot
 
 <div class="image-wrapper">
-  <img class="widget-image" src="/images/widgets/crypto.png" alt="Calendar Widget" width="400"/>
+  <img class="widget-image" src="/images/widgets/crypto.png" alt="Crypto Widget" width="400"/>
 </div>
 
 ## Functionality
@@ -17,6 +17,7 @@ The Crypto List widget has the following functionality.
 - Show or hide the 24 hours percentage change.
 - Specify the interval in between the widget will poll new data.
 - Show Icons
+- Show minimal version in the wake up screen
 
 ## How to use
 

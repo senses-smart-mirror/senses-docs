@@ -1,8 +1,8 @@
 :root {
   // brand colors
-  --c-brand: #27B5E2!important;
-  --c-brand-light: #28bce9!important;
-  --c-tip: #27B5E2!important;
+  --c-brand: #27B5E2 !important;
+  --c-brand-light: #28bce9 !important;
+  --c-tip: #27B5E2 !important;
 
   --s-white: var(--c-text);
 
@@ -19,10 +19,27 @@ html.dark {
 
   // custom colors 
   --s-white: #fff;
-  
+
 }
 
-.sidebar-items, .page-meta, .footer {
+/* 
+* Vuepress overrides
+*/
+.navbar .site-name {
+  font-size: 1rem;
+}
+
+h1#main-title {
+  font-size: 48px;
+  font-weight: 800;
+  background: -webkit-linear-gradient(45deg, #27B5E2, #63E227 90%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.sidebar-items,
+.page-meta,
+.footer {
   font-size: 13px;
 }
 
@@ -38,7 +55,12 @@ html.dark {
   border-radius: 0 5px 5px 0;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   color: var(--s-white);
   font-weight: 400;
 }
@@ -60,11 +82,20 @@ h2 {
   font-size: 15px;
 }
 
+/*
+* custom CSS
+*/
 .image-wrapper {
   padding: 20px 0;
-  text-align: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
 }
 
 .widget-image {
   border-radius: 14px;
+  border: 3px solid #212121;
+  height: 100%;
+  max-width: 400px;
+  margin-bottom: 20px;
 }
