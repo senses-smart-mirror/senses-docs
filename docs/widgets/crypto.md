@@ -23,12 +23,12 @@ The Crypto List widget has the following functionality.
 
 Simple add the Crypto widget on your Smart Mirror using the Senses - Smart Mirror app. This widget doesn't require any other configuration.
 
-## Configuration
+## Configuration 
 
 | Setting | Description |
 | ----------- | ----------- |
 | Widget Title | Widget header title |
-| Currencies | Specify the currencies split by a comma. Example: BTC,ETH,XRP | 
+| Currencies | Specify the currencies split by a comma. Example: BTC,ETH,XRP |
 | Conversion | Select the conversion | 
 | Show Percentage | Show or hide the 24 hour percentage change. |
 | Interval | Specify the interval in between the widget will poll for new data. |

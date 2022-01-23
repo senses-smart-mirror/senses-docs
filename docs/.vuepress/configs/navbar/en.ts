@@ -3,7 +3,7 @@ import { NavbarConfig } from "@vuepress/theme-default";
 export const en: NavbarConfig = [
   {
     text: 'Donate',
-    link: 'http://github.com',
+    link: 'http://senses-smartmirror.com/#donate',
   }, {
     text: 'Guide',
     link: '/guide/introduction.md',
