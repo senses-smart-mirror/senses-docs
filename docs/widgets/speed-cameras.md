@@ -23,7 +23,7 @@ Simple add the widget to the Smart Mirror with the Senses App. There is no addit
 
 ## Configuration
 
-The following configuration options are avialable for this widget.
+The following configuration options are available for this widget.
 
 | Setting | Description |
 | ----------- | ----------- |
