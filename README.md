@@ -3,3 +3,5 @@
 
 # Senses - Documentation
 For the full documentation go to [Senses - Documentation](https://senses-smartmirror.com/documentation)
+
+<em>Build with Vuepress.</em>
