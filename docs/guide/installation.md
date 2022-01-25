@@ -8,11 +8,11 @@ There are 2 easy ways to install the Senses software for your Smart Mirror; you 
 
 ```sudo apt-get install -y nodejs```
 
-## Using Senses CLI
+## Option 1: Using Senses CLI
 
 Before installing the full Senses - Smart Mirror software make sure you have all prerequisites installed and ready!
 
-First install the Senses CLI with NPM and then use CLI commands to further download the software.
+First we will install the Senses CLI with NPM and then use CLI commands to further download the software.
 
 <b>Installation steps</b>
 
@@ -36,13 +36,12 @@ All done. Senses - Smart Mirror successfully installed.
 
 4. Next step to [Configure](/guide/configuration.md) the Smart Mirror
 
-
-## Using Curl
+## Option 2: Using Curl
 
 ``` bash
-bash -c  "$(curl -sL )"
+bash -c  "$(curl -sL https://raw.githubusercontent.com/senses-smart-mirror/senses-scripts/main/lib/raspberry-pi-install.sh)"
 ```
 
 
 ## Latest Version
-Detailed release notes for each version are available on [GitHub](https://github.com/senses-smart-mirror/senses-smartmirror/issues).
+Detailed release notes for each version are available on [GitHub](https://github.com/senses-smart-mirror/senses-smartmirror/).

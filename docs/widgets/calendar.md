@@ -41,7 +41,6 @@ In order to access your personal calendar please follow the following instructio
 
 4. Provide the project name (examples: smart-mirror, or senses-smart-mirror).
 5. Click Create Project in order to create the new project.
-
 <br /><br />
 <strong>Your project is now created and you will see the project's dashboard.</strong>
 <br /><br />

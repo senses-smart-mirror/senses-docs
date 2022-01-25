@@ -5,9 +5,9 @@ The notifications widget shows notifications triggered by a widget or the server
 ## Screenshot
 
 <div class="image-wrapper"> 
-  <img class="widget-image" src="/images/widgets/notifications-1.png" alt="Notifications Widget" width="400"/>
-  <img class="widget-image" src="/images/widgets/notifications-2.png" alt="Notifications Widget" width="400"/>
-  <img class="widget-image" src="/images/widgets/notifications-3.png" alt="Notifications Widget" width="400"/>
+  <img class="widget-image" src="/images/widgets/notifications-1.png" alt="Notifications Widget" width="260"/>
+  <img class="widget-image" src="/images/widgets/notifications-2.png" alt="Notifications Widget" width="260"/>
+  <img class="widget-image" src="/images/widgets/notifications-3.png" alt="Notifications Widget" width="300"/>
   <img class="widget-image" src="/images/widgets/notifications-4.png" alt="Notifications Widget" width="400"/>
 </div>
 

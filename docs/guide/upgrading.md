@@ -2,10 +2,10 @@
 
 > Updating the Smart Mirror software to the latest verison.
 
-The process for upgrading the Senses - Smart Mirror software is pretty easy and straightforward. You can install a new version from the Senses - Smart Mirror App.
+The process for upgrading the Senses - Smart Mirror software is pretty easy and straightforward. You can install a new version from the Senses - App.
 
 <b>Upgrading steps:</b>
-1. Head over to the Senses - Smart Mirror App.
+1. Head over to the Senses - App.
 2. Click / Press <b>'Settings'</b> from the navigation menu.
 3. Click / Press <b>'Options'</b> from the popup menu. 
 4. Click / Press <b>'Create Backup Configuration'</b> (this will backup your current confugration and profiles).
