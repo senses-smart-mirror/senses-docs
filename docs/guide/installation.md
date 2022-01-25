@@ -6,7 +6,7 @@ There are 2 easy ways to install the Senses software for your Smart Mirror; you 
 
 1. Install NodeJS
 
-```sudo apt-get install -y nodejs```
+For more information on installing Node.js, see [nodejs.org](https://nodejs.org/en/). If you are unsure what version of Node.js runs on your system, run node -v in a terminal window.
 
 ## Option 1: Using Senses CLI
 
