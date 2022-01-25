@@ -47,3 +47,9 @@ From <strong>navigation -> settings -> design</strong> you can open the design m
 After you are done with the general configuration you are ready to place widgets on your Smart Mirror. All widgets are configurable through there own settings. After adding a widget to the grid the widget settings screen will be displayed. 
 
 For a full list of all the widgets see [here](/widgets/introduction).
+
+## Configure your Raspberry PI
+
+Senses - Smart Mirror software will run on your Raspberry PI out of the box but you might want to configure other Raspberry PI related options. Think about a splash screen or rotate the display to properly show the software on your monitor. 
+
+We decided to not give any instructions in this documentation, there are already a lot of tutorials / guides / video's out there that provide a lot of good help already. We might add a link to those sites in the documentation at a later stage. 

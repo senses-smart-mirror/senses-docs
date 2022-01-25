@@ -4,6 +4,10 @@
   For this we assume you already installed the Senses - Smart Mirror CLI [Github](https://github.com/senses-smart-mirror/senses-cli) - [NPM](https://npmjs.com)
 :::
 
+#### Prerequisites
+
+1. Install Vue CLI globally. Visit the [Vue CLI](https://cli.vuejs.org/) for instructions.
+
 #### Steps
 
 1. Create a new widget with:

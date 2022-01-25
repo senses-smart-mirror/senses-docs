@@ -7,12 +7,12 @@ The Chuck Norris widget shows a quote related to Chuck Norris. This widget is no
 ## Screenshot
 
 <div class="image-wrapper">
-  <img class="widget-image" src="/images/widgets/chuck-norris.png" alt="Calendar Widget" width="400"/>
+  <img class="widget-image" src="/images/widgets/chuck-norris.png" alt="Calendar Widget" width="300"/>
 </div>
 
 ## Functionality
 
-- Cycles trough Chuck Norris facts & quotes
+- Cycles through Chuck Norris facts & quotes
 
 ## How to use
 

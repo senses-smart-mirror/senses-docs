@@ -45,4 +45,4 @@ bash -c  "$(curl -sL )"
 
 
 ## Latest Version
-Detailed release notes for each version are available on [GitHub](https://github.com/).
+Detailed release notes for each version are available on [GitHub](https://github.com/senses-smart-mirror/senses-smartmirror/issues).

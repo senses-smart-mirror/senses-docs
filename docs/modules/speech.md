@@ -34,4 +34,4 @@ The [Speech Widget](/widgets/speech) will show a small microphone icon on your S
 
 ### Requirements
 
-We are updating this part of the documentation as soon as this module comes out of beta release. If you have any question please refer to the Github Issues.
+We are updating this part of the documentation as soon as this module comes out of beta release. If you have any question please refer to the [Github Issues](https://github.com/senses-smart-mirror/senses-smartmirror/issues).

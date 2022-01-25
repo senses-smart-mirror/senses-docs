@@ -32,9 +32,13 @@ html.dark {
 h1#main-title {
   font-size: 48px;
   font-weight: 800;
-  background: -webkit-linear-gradient(45deg, #27B5E2, #63E227 90%);
+  background: -webkit-linear-gradient(45deg, #27B5E2, #63E227 110%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+}
+
+.features .feature h2 {
+  color: rgba(255,255,255,.8);
 }
 
 .sidebar-items,

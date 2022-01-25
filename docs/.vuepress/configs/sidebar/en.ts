@@ -3,7 +3,7 @@ import { SidebarConfig } from "@vuepress/theme-default";
 export const en: SidebarConfig = {
   '/': [
     {
-      text: 'Guide',
+      text: 'Getting Started',
       children: [
         '/guide/introduction.md',
         '/guide/requirements.md',
@@ -17,6 +17,16 @@ export const en: SidebarConfig = {
         '/guide/donate.md',
       ],
     }, 
+    {
+      text: 'Guide',
+      children: [
+        '/guide/senses-app.md',
+        '/guide/profiles.md',
+        '/guide/widget-cache.md',
+        '/guide/minimal-screen.md',
+        '/guide/custom-widgets.md',
+      ],
+    },
     {
       text: 'Widget Development',
       children: [

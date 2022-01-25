@@ -13,8 +13,8 @@ The following general settings are available. Please note that some settings dep
 | Theme | Choose between a dark or light theme. | 
 | Start time | <em>Works together the following setting "end time"</em>. Specify a time the Smart Mirror should start the monitor and display the widgets. Outside the hours specified the Smart Mirror will turn off the monitor and widgets. Format: hh:mm based on 24 hours. |
 | End time | <em>Works together the above setting "start time"</em>. Format: hh:mm based on 24 hours |
-| Left bottom column animation | Toggle on this option to enable the animation of widgets in the bottom left column. If you disable this option the widgets will show above each other |
-| Right bottom column animation | Same as above mentioned setting only for the right column. |
+| Left bottom column animation | Toggle on this option to enable the animation of widgets in the bottom left column. If you disable this option the widgets will show above each other. Also knowns as animator. |
+| Right bottom column animation | Same as above mentioned setting only for the right column. Also knowns as animator. |
 | Left columns background | Toggle on this option to show a background overlay in the left column. |
 | Right columns background | Toggle on this option to show a background overlay in the right column. |
 | Show Clock | Toggle on this option to show a full time clock instead of the widgets | 

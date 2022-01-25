@@ -3,12 +3,12 @@
 In this section you will find more information about how to <strong>create</strong> your own widgets and <strong>import</strong> them onto the Smart Mirror.
 
 ::: tip Please note
-In the whole section we will refer to the Senses CLI [Github](https://github.com/senses-smart-mirror/senses-cli) - [NPM](https://npmjs.com)
+In this section we will refer to the Senses - CLI [Github](https://github.com/senses-smart-mirror/senses-cli) - [NPM](https://npmjs.com)
 :::
 
 ## Required knowledge
 
-In order to start developing your own widget and share them with the community it is good to have some knowledge / experience with the following.
+In order to start creating your own widget and share your creation with the community it is good to have some knowledge / experience with the following.
 
 1. Vuejs (2)
 2. Nodejs & Express
@@ -90,4 +90,4 @@ module.exports = exampleConfig;
 ```
 <br /><br />
 
-Look at [Chuck Norris Example Widget](https://github.com/senses-smart-mirror/senses-widgets) for a full example. 
+Look at [Chuck Norris Example Widget](https://github.com/senses-smart-mirror/senses-widgets) for a full example. In this example you can view the widget config files as well as some API's for the widget helper.

@@ -68,4 +68,4 @@ Please use the editor config file.
 By contributing, you agree that your contributions will be licensed under its MIT License.
 
 #### 8) References
-- 
+<em>None at this point.</em>
