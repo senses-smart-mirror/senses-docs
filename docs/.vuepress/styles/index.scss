@@ -20,6 +20,10 @@ html.dark {
   // custom colors 
   --s-white: #fff;
 
+  .features .feature h2 {
+    color: rgba(255,255,255,1);
+  }
+
 }
 
 /* 
@@ -39,10 +43,6 @@ h1#main-title {
 
 .home .hero img {
   width: 200px;
-}
-
-.features .feature h2 {
-  color: rgba(255,255,255,1);
 }
 
 .sidebar-items,
