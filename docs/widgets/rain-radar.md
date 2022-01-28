@@ -14,7 +14,7 @@ The Rain Radar widget will display the rain forecast in a graph. It will also di
 ## Functionality
 
 - Shows rain forecast for the next 2 hours in a graph.
-- Shows notifications when rain is expect.
+- Show a notifications when rain is expect.
 - Conditional show to only show the widget when rain is expected.
 - Specify latitude and longitude to see the forecast in your area.
 
