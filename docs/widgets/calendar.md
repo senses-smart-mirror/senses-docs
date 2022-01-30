@@ -84,7 +84,7 @@ The following configuration settings are available for the Calendar Widget.
 
 | Setting | Description |
 | ----------- | ----------- |
-| Connect Google | This button will allow you to connect your Google Calendar to Senses. Please see the above instructions on how to setup this. |
+| Connect Google | This button will allow you to connect your Google Calendar to Senses. Please see the above instructions. |
 | Client ID | Paste your Client id from above instructions here. | 
 | Client Secret | Paste your Client Secret from above instructions here. |
 | Access Token | After setting up your Google Account this setting will automatically be populated. |
