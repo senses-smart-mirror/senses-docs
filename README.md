@@ -2,6 +2,6 @@
 <br /><br />
 
 # Senses - Documentation
-For the full documentation go to [Senses - Documentation](https://senses-smartmirror.com/documentation)
+For the full documentation go to [Senses - Documentation](https://docs.senses-smartmirror.com/)
 
 <em>Build with Vuepress.</em>
