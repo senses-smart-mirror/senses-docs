@@ -56,7 +56,7 @@ In order to access your personal calendar please follow the following instructio
 
 11. Fill in the following fields: App name, User Support Email and Developer Contact Information. 
 
-12. Click on <strong>"Add Domain"</strong> and specify: <em>downloadmirror.com</em>. (This website will redirect you automatically back to the Smart Mirror App)
+12. Click on <strong>"Add Domain"</strong> and specify: <em>senses-smartmirror.com</em>. (This website will redirect you automatically back to the Smart Mirror App)
 
 13. Click <strong>Continue"</strong>. Your Consent Screen is now created. 
 
@@ -66,7 +66,7 @@ In order to access your personal calendar please follow the following instructio
 
 16. Select <strong>"Web Application"</strong> under Application Type and specify a name.
 
-17. Click "Add URI" under <strong>Authorized Redirect URI's</strong> and add: <em>https://downloadmirror.nl/oauth/google</em>
+17. Click "Add URI" under <strong>Authorized Redirect URI's</strong> and add: <em>https://senses-smartmirror.com/oauth/google</em>
 
 18. Click create which will show your Client ID and Client Secret. Copy both of these strings and add them to the options in the Calendar in the Senses App. 
 <br /><br />

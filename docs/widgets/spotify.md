@@ -34,7 +34,7 @@ Following the following steps to set up Spotify.
 
 The new Application is now created. We will continue with the steps in order to provide the correct settings. 
 
-6. Click on "Edit Settings" and provide the following value under "Redirect URI's": <em>https://downloadmirror.nl/oauth/spotify</em>
+6. Click on "Edit Settings" and provide the following value under "Redirect URI's": <em>https://senses-smartmirror.com/oauth/spotify</em>
 
 7. Save the settings page.
 

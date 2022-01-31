@@ -46,7 +46,7 @@ Before you can use the Mercedes widget you will need to configure your Mercedes 
 
 10. From the pop up that opened, copy the Client ID and Client Secret and paste them in the Senses - App - Mercedes Widget. <em>Please note you can only see the Secret once, if you close this pop up you will need to create a new secret.</em>
 
-11. Under "Redirect URLs" provide the following redirect URL: <em>https://downloadmirror.nl/oauth/mercedes</em>.
+11. Under "Redirect URLs" provide the following redirect URL: <em>https://senses-smartmirror.com/oauth/mercedes</em>.
 <br /><br />
 You are now done setting up the Mercedes Me Product Account. We will continue in the next steps to get your vehicle ID (VIN number).
 <br /><br />
