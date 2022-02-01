@@ -4,7 +4,7 @@ This section will give more information on how to configure your Senses - Smart 
 
 <em>We assume that you have correctly installed Senses and started the software.</em>
 
-From a fresh installation you will only see the default profile with the default configuration. The default configuration will show the Clock and Weather widget as well as the QR widget. <em>If you scan the QR widget the Senses - Smart Mirror app will open on your Phone!</em> From now on you will use this webapp to configure your Smart Mirror.
+From a fresh installation you will only see the default profile with the default configuration. The default configuration will show the Clock and the QR widget. <em>If you scan the QR widget the Senses - Smart Mirror app will open on your Phone!</em> From now on you will use this webapp to configure your Smart Mirror.
 
 ## Profile
 
