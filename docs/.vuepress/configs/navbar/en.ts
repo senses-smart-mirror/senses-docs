@@ -9,6 +9,6 @@ export const en: NavbarConfig = [
     link: '/guide/introduction.md',
   }, {
     text: 'Github',
-    link: 'http://github.com',
+    link: 'https://github.com/senses-smart-mirror/senses-smartmirror',
   }
 ]
